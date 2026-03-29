@@ -10,7 +10,7 @@
         <!-- Ranges under 8m. Minimum aim time for rifles at this range is gonna be 330. No buts, we have to be balanced. -->
         <ModifiableParams
             minAimTime="330"
-            maxAimTime="350"
+            maxAimTime="3500"
             roundsPerSecondOverride="0"
             minShots="3"
             maxShots="-1"
