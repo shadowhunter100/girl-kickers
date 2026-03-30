@@ -6,7 +6,7 @@
     <!-- Under 4m. -->
         <ModifiableParams
             minAimTime="340"
-            maxAimTime="340"
+            maxAimTime="3400"
             roundsPerSecondOverride="0"
             minShots="3"
             maxShots="-1"
